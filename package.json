@@ -2,7 +2,7 @@
   "name": "spotify-github-profile",
   "version": "1.0.0",
   "description": "Spotify Now Playing widget for GitHub README",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "node server.js",
     "start": "node server.js"
